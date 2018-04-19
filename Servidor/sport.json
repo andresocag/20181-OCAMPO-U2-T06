@@ -1,0 +1,44 @@
+[
+    {
+        "name":"ocampo",
+        "email":"ocampo@hotmail.com",
+        "photo":"https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX28408818.jpg",
+        "sports":[
+            {
+                "name":"soccer",
+                "color":"#FF0000"
+            },
+            {
+                "name":"Basket ball",
+                "color":"#00FF00"
+            },
+            {
+                "name":"Natacion",
+                "color":"#0000FF"
+            }
+
+        ]
+
+    },
+    {
+        "name":"yera",
+        "email":"yera@hotmail.com",
+        "photo":"https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX28408818.jpg",
+        "sports":[
+            {
+                "name":"soccer",
+                "color":"#FF0000"
+            },
+            {
+                "name":"volibol",
+                "color":"#00FF00"
+            },
+            {
+                "name":"fronton",
+                "color":"#0000FF"
+            }
+
+        ]
+
+    }
+]
